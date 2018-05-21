@@ -11,7 +11,7 @@
 | 7b|02-01-2018|9 | Capstone- 1 |[Instacart MBA Data Wrangling](https://github.com/krajeshj/InstacartMBA/blob/master/code/py/InstacartMBA_DataWrangling.ipynb)|
 | 7c|03-01-2018|9 | Capstone- 1 |[Instacart MBA Data Story Telling ](https://github.com/krajeshj/InstacartMBA/blob/master/code/py/InstacartMBA_DataStoryTelling.ipynb)|
 | 7d|05-19-2018|9| Capstone -1 | [Milestone Report]|
-| 8|05-30-2018|11.1| Linear and Logistic Regression  | [Boston Housing Data]  |
+| 8|05-30-2018|11.1| Linear and Logistic Regression  | [Boston Housing Data](https://github.com/krajeshj/SupervisedLinear_regression/blob/master/Mini_Project_Linear_Regression.ipynb)  |
 | 9|05-30-2018|11.1| Linear and Logistic Regression  | [Heights and Weights Using Logistic Regression]|
 |10|05-30-2018|11.3| Bayesian Methods and Text Data | [Predicting Movie Ratings from Reviews Using Naive Bayes]  ||
 |10|05-30-2018|11.5| Unsupervised Learning | [Customer Segmentation](https://github.com/krajeshj/UnsupervisedClustering) | 
